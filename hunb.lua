@@ -1,6 +1,6 @@
 
 --[[ 
-    Restored from an old source with love by Serl1cia ♥
+    Restored from an old source with love by Serl1cia
     U can use this UI however you want - I don’t really care anymore
     Rewrite coming soon! (trust)
 ]]
